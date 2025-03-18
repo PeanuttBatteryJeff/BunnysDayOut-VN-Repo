@@ -1,0 +1,40 @@
+# Unity generated files
+Library/
+Builds/
+Temp/
+Obj/
+UnityPackageManager/
+Packages/
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/UnityConnectSettings.asset
+
+# Visual Studio / MonoDevelop generated files
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.orig
+*.bak
+*.meta
+
+# Other files
+.DS_Store
+*.DS_Store
+*.log
+*.lock
+*.zip
+*.rar
+*.dll
+*.pdb
+*.mdb
+*.mp3
+*.mp4
+*.avi
+*.pdf
+*.unitypackage
